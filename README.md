@@ -9,7 +9,7 @@ Find, book and consult the best doctors online.
 Job ( https://phodphad.com/job )  
 The best place to find all remote jobs. Work on anything at anytime from anyplace.  
 
-Life ( https://phodphad.com/life )
+Life ( https://phodphad.com/life )  
 Get a perfect blueprint of your life. Get a life report based on vedic astrology.
 
 Shop ( https://phodphad.com/shop )  
